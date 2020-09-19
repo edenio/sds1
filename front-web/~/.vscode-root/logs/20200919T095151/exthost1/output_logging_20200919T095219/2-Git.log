@@ -1,0 +1,152 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/edenio/Workspaces/WS-STS/dspesquisa
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :front-web/src/setupTests.ts
+> git ls-files --stage -- /home/edenio/Workspaces/WS-STS/dspesquisa/front-web/src/setupTests.ts
+> git cat-file -s 74b1a275a0ea7df518f17bcea5375abf003abe55
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :front-web/src/serviceWorker.ts
+> git ls-files --stage -- /home/edenio/Workspaces/WS-STS/dspesquisa/front-web/src/serviceWorker.ts
+> git cat-file -s b09523f155e978be34dfb9c743d27a90dbe4a141
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :front-web/src/index.tsx
+> git ls-files --stage -- /home/edenio/Workspaces/WS-STS/dspesquisa/front-web/src/index.tsx
+> git cat-file -s f5185c1ec7a5dccf30b55a8e3f89afc3eca764a1
+> git show --textconv :front-web/src/logo.svg
+> git ls-files --stage -- /home/edenio/Workspaces/WS-STS/dspesquisa/front-web/src/logo.svg
+> git cat-file -s 6b60c1042f58d9fabb75485aa3624dddcf633b5c
+> git show --textconv :front-web/src/index.tsx
+> git ls-files --stage -- /home/edenio/Workspaces/WS-STS/dspesquisa/front-web/src/index.tsx
+> git cat-file -s f5185c1ec7a5dccf30b55a8e3f89afc3eca764a1
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :front-web/src/index.css
+> git ls-files --stage -- /home/edenio/Workspaces/WS-STS/dspesquisa/front-web/src/index.css
+> git cat-file -s ec2585e8c0bb8188184ed1e0703c4c8f2a8419b0
+> git show --textconv :front-web/src/index.tsx
+> git ls-files --stage -- /home/edenio/Workspaces/WS-STS/dspesquisa/front-web/src/index.tsx
+> git cat-file -s f5185c1ec7a5dccf30b55a8e3f89afc3eca764a1
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :front-web/src/App.tsx
+> git ls-files --stage -- /home/edenio/Workspaces/WS-STS/dspesquisa/front-web/src/App.tsx
+> git cat-file -s e052e6d1b8faddab3d3bc8957f6fa5553032cae8
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :front-web/src/App.css
+> git ls-files --stage -- /home/edenio/Workspaces/WS-STS/dspesquisa/front-web/src/App.css
+> git cat-file -s 74b5e053450a48a6bdb4d71aad648e7af821975c
+> git show --textconv :front-web/src/App.test.tsx
+> git ls-files --stage -- /home/edenio/Workspaces/WS-STS/dspesquisa/front-web/src/App.test.tsx
+> git cat-file -s 4db7ebc25c2d066cd254805af5dda1ed1d2bc819
+> git show --textconv :front-web/src/App.css
+> git ls-files --stage -- /home/edenio/Workspaces/WS-STS/dspesquisa/front-web/src/App.css
+> git cat-file -s 74b5e053450a48a6bdb4d71aad648e7af821975c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :front-web/public/index.html
+> git ls-files --stage -- /home/edenio/Workspaces/WS-STS/dspesquisa/front-web/public/index.html
+> git cat-file -s aa069f27cbd9d53394428171c3989fd03db73c76
+> git show --textconv :front-web/src/index.tsx
+> git ls-files --stage -- /home/edenio/Workspaces/WS-STS/dspesquisa/front-web/src/index.tsx
+> git cat-file -s f5185c1ec7a5dccf30b55a8e3f89afc3eca764a1
+> git show --textconv :front-web/public/index.html
+> git ls-files --stage -- /home/edenio/Workspaces/WS-STS/dspesquisa/front-web/public/index.html
+> git cat-file -s aa069f27cbd9d53394428171c3989fd03db73c76
+> git show --textconv :front-web/public/index.html
+> git ls-files --stage -- /home/edenio/Workspaces/WS-STS/dspesquisa/front-web/public/index.html
+> git cat-file -s aa069f27cbd9d53394428171c3989fd03db73c76
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :front-web/public/index.html
+> git ls-files --stage -- /home/edenio/Workspaces/WS-STS/dspesquisa/front-web/public/index.html
+> git cat-file -s aa069f27cbd9d53394428171c3989fd03db73c76
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :front-web/src/App.css
+> git ls-files --stage -- /home/edenio/Workspaces/WS-STS/dspesquisa/front-web/src/App.css
+> git cat-file -s 74b5e053450a48a6bdb4d71aad648e7af821975c
+> git show --textconv :front-web/src/App.tsx
+> git ls-files --stage -- /home/edenio/Workspaces/WS-STS/dspesquisa/front-web/src/App.tsx
+> git cat-file -s e052e6d1b8faddab3d3bc8957f6fa5553032cae8
+> git show --textconv :front-web/src/index.tsx
+> git ls-files --stage -- /home/edenio/Workspaces/WS-STS/dspesquisa/front-web/src/index.tsx
+> git cat-file -s f5185c1ec7a5dccf30b55a8e3f89afc3eca764a1
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
