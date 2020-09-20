@@ -1,2 +1,26 @@
 [2020-09-20 09:01:34.800] [sharedprocess] [info] main {"machineId":"fefc86450620152597fe352348dc3a25402ebbb123c613a64f2890c7ef0b2ffd","windowId":2}
 [2020-09-20 09:02:14.834] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-09-20 10:09:52.018] [sharedprocess] [info] Installing extension: naumovs.color-highlight
+[2020-09-20 10:09:53.226] [sharedprocess] [info] Downloaded extension: naumovs.color-highlight /home/edenio/Workspaces/WS-STS/dspesquisa/front-web/~/.vscode-root/CachedExtensionVSIXs/naumovs.color-highlight-2.3.0
+[2020-09-20 10:09:53.546] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.naumovs.color-highlight-2.3.0: naumovs.color-highlight
+[2020-09-20 10:09:53.546] [sharedprocess] [info] Renamed to /root/.vscode/extensions/naumovs.color-highlight-2.3.0
+[2020-09-20 10:09:53.547] [sharedprocess] [info] Installation completed. naumovs.color-highlight
+[2020-09-20 10:09:53.563] [sharedprocess] [info] Extensions installed successfully: naumovs.color-highlight
+[2020-09-20 10:10:28.765] [sharedprocess] [info] Installing extension: dbaeumer.vscode-eslint
+[2020-09-20 10:10:29.323] [sharedprocess] [info] Downloaded extension: dbaeumer.vscode-eslint /home/edenio/Workspaces/WS-STS/dspesquisa/front-web/~/.vscode-root/CachedExtensionVSIXs/dbaeumer.vscode-eslint-2.1.8
+[2020-09-20 10:10:29.388] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.dbaeumer.vscode-eslint-2.1.8: dbaeumer.vscode-eslint
+[2020-09-20 10:10:29.389] [sharedprocess] [info] Renamed to /root/.vscode/extensions/dbaeumer.vscode-eslint-2.1.8
+[2020-09-20 10:10:29.391] [sharedprocess] [info] Installation completed. dbaeumer.vscode-eslint
+[2020-09-20 10:10:29.406] [sharedprocess] [info] Extensions installed successfully: dbaeumer.vscode-eslint
+[2020-09-20 10:10:48.809] [sharedprocess] [info] Installing extension: skyran.js-jsx-snippets
+[2020-09-20 10:10:49.303] [sharedprocess] [info] Downloaded extension: skyran.js-jsx-snippets /home/edenio/Workspaces/WS-STS/dspesquisa/front-web/~/.vscode-root/CachedExtensionVSIXs/skyran.js-jsx-snippets-10.1.0
+[2020-09-20 10:10:49.369] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.skyran.js-jsx-snippets-10.1.0: skyran.js-jsx-snippets
+[2020-09-20 10:10:49.370] [sharedprocess] [info] Renamed to /root/.vscode/extensions/skyran.js-jsx-snippets-10.1.0
+[2020-09-20 10:10:49.371] [sharedprocess] [info] Installation completed. skyran.js-jsx-snippets
+[2020-09-20 10:10:49.385] [sharedprocess] [info] Extensions installed successfully: skyran.js-jsx-snippets
+[2020-09-20 10:11:00.951] [sharedprocess] [info] Installing extension: visualstudioexptteam.vscodeintellicode
+[2020-09-20 10:11:05.782] [sharedprocess] [info] Downloaded extension: visualstudioexptteam.vscodeintellicode /home/edenio/Workspaces/WS-STS/dspesquisa/front-web/~/.vscode-root/CachedExtensionVSIXs/visualstudioexptteam.vscodeintellicode-1.2.10
+[2020-09-20 10:11:07.261] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.visualstudioexptteam.vscodeintellicode-1.2.10: visualstudioexptteam.vscodeintellicode
+[2020-09-20 10:11:07.262] [sharedprocess] [info] Renamed to /root/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.10
+[2020-09-20 10:11:07.263] [sharedprocess] [info] Installation completed. visualstudioexptteam.vscodeintellicode
+[2020-09-20 10:11:07.281] [sharedprocess] [info] Extensions installed successfully: visualstudioexptteam.vscodeintellicode

@@ -40,8 +40,7 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor",
-                                    "enabled": false
+                                    "label": "&&Reopen Closed Editor"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -99,7 +98,8 @@
                     },
                     {
                         "id": "workbench.action.files.saveAll",
-                        "label": "Save A&&ll"
+                        "label": "Save A&&ll",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -377,7 +377,8 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleSidebarVisibility",
-                                    "label": "Show &&Side Bar"
+                                    "label": "Show &&Side Bar",
+                                    "checked": true
                                 },
                                 {
                                     "id": "workbench.action.toggleStatusbarVisibility",
@@ -1457,9 +1458,9 @@
             "folder": "file:///home/edenio/Workspaces/WS-STS/dspesquisa/front-web",
             "backupPath": "/home/edenio/Workspaces/WS-STS/dspesquisa/front-web/~/.vscode-root/Backups/563bcb628f15f88c0778230e86e562bc",
             "uiState": {
-                "mode": 1,
-                "x": 299,
-                "y": 119,
+                "mode": 0,
+                "x": 284,
+                "y": 178,
                 "width": 785,
                 "height": 391
             }
