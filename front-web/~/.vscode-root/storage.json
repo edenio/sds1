@@ -377,8 +377,7 @@
                                 },
                                 {
                                     "id": "workbench.action.toggleSidebarVisibility",
-                                    "label": "Show &&Side Bar",
-                                    "checked": true
+                                    "label": "Show &&Side Bar"
                                 },
                                 {
                                     "id": "workbench.action.toggleStatusbarVisibility",
@@ -1458,11 +1457,11 @@
             "folder": "file:///home/edenio/Workspaces/WS-STS/dspesquisa/front-web",
             "backupPath": "/home/edenio/Workspaces/WS-STS/dspesquisa/front-web/~/.vscode-root/Backups/563bcb628f15f88c0778230e86e562bc",
             "uiState": {
-                "mode": 0,
-                "x": 235,
-                "y": 64,
-                "width": 1024,
-                "height": 704
+                "mode": 1,
+                "x": 299,
+                "y": 119,
+                "width": 785,
+                "height": 391
             }
         },
         "openedWindows": []
