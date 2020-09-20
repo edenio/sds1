@@ -1,0 +1,1 @@
+[2020-09-20 10:51:35.189] [renderer1] [error] [text file model] handleSaveError(58) - exit - resulted in a save error: Error: Unable to write file '/home/edenio/Workspaces/WS-STS/dspesquisa/front-web/package.json' (Error: File Modified Since) file:///home/edenio/Workspaces/WS-STS/dspesquisa/front-web/package.json

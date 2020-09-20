@@ -1,0 +1,129 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/edenio/Workspaces/WS-STS/dspesquisa
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git config --get commit.template
+> git show --textconv :front-web/src/Routes.tsx
+> git ls-files --stage -- /home/edenio/Workspaces/WS-STS/dspesquisa/front-web/src/Routes.tsx
+> git check-ignore -v -z --stdin
+> git show --textconv :front-web/node_modules/@types/react-router-dom/index.d.ts
+> git ls-files --stage -- /home/edenio/Workspaces/WS-STS/dspesquisa/front-web/node_modules/@types/react-router-dom/index.d.ts
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :front-web/src/Routes.tsx
+> git ls-files --stage -- /home/edenio/Workspaces/WS-STS/dspesquisa/front-web/src/Routes.tsx
+> git check-ignore -v -z --stdin
+> git show --textconv :front-web/package.json
+> git ls-files --stage -- /home/edenio/Workspaces/WS-STS/dspesquisa/front-web/package.json
+> git cat-file -s 599b74893ed6437f78f0da110923104568714036
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :front-web/src/Routes.tsx
+> git ls-files --stage -- /home/edenio/Workspaces/WS-STS/dspesquisa/front-web/src/Routes.tsx
+> git show --textconv :front-web/package.json
+> git ls-files --stage -- /home/edenio/Workspaces/WS-STS/dspesquisa/front-web/package.json
+> git cat-file -s 599b74893ed6437f78f0da110923104568714036
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :front-web/src/Routes.tsx
+> git ls-files --stage -- /home/edenio/Workspaces/WS-STS/dspesquisa/front-web/src/Routes.tsx
+> git show --textconv :front-web/package.json
+> git ls-files --stage -- /home/edenio/Workspaces/WS-STS/dspesquisa/front-web/package.json
+> git cat-file -s 599b74893ed6437f78f0da110923104568714036
+> git show --textconv :front-web/src/App.tsx
+> git ls-files --stage -- /home/edenio/Workspaces/WS-STS/dspesquisa/front-web/src/App.tsx
+> git cat-file -s 7a587a29838ce952c47d97113418ab604cf54e13
+> git show --textconv :front-web/src/Routes.tsx
+> git ls-files --stage -- /home/edenio/Workspaces/WS-STS/dspesquisa/front-web/src/Routes.tsx
+> git show --textconv :front-web/package.json
+> git ls-files --stage -- /home/edenio/Workspaces/WS-STS/dspesquisa/front-web/package.json
+> git cat-file -s 599b74893ed6437f78f0da110923104568714036
+> git check-ignore -v -z --stdin
+> git show --textconv :front-web/src/Routes.tsx
+> git ls-files --stage -- /home/edenio/Workspaces/WS-STS/dspesquisa/front-web/src/Routes.tsx
+> git show --textconv :front-web/package.json
+> git ls-files --stage -- /home/edenio/Workspaces/WS-STS/dspesquisa/front-web/package.json
+> git cat-file -s 599b74893ed6437f78f0da110923104568714036
+> git show --textconv :front-web/src/Routes.tsx
+> git ls-files --stage -- /home/edenio/Workspaces/WS-STS/dspesquisa/front-web/src/Routes.tsx
+> git check-ignore -v -z --stdin
+> git show --textconv HEAD:front-web/package-lock.json
+> git ls-tree -l HEAD -- /home/edenio/Workspaces/WS-STS/dspesquisa/front-web/package-lock.json
+> git show --textconv HEAD:front-web/package-lock.json
+> git ls-tree -l HEAD -- /home/edenio/Workspaces/WS-STS/dspesquisa/front-web/package-lock.json
+> git check-ignore -v -z --stdin
+> git show --textconv :front-web/.gitignore
+> git ls-files --stage -- /home/edenio/Workspaces/WS-STS/dspesquisa/front-web/.gitignore
+> git cat-file -s 4d29575de80483b005c29bfcac5061cd2f45313e
+> git show --textconv :front-web/src/Routes.tsx
+> git ls-files --stage -- /home/edenio/Workspaces/WS-STS/dspesquisa/front-web/src/Routes.tsx
+> git show --textconv :front-web/package.json
+> git ls-files --stage -- /home/edenio/Workspaces/WS-STS/dspesquisa/front-web/package.json
+> git cat-file -s 599b74893ed6437f78f0da110923104568714036
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv HEAD:front-web/yarn.lock
+> git ls-tree -l HEAD -- /home/edenio/Workspaces/WS-STS/dspesquisa/front-web/yarn.lock
+> git show --textconv HEAD:front-web/src/App.tsx
+> git ls-tree -l HEAD -- /home/edenio/Workspaces/WS-STS/dspesquisa/front-web/src/App.tsx
+> git show --textconv HEAD:front-web/src/Routes.tsx
+> git ls-tree -l HEAD -- /home/edenio/Workspaces/WS-STS/dspesquisa/front-web/src/Routes.tsx
+> git show --textconv HEAD:front-web/package-lock.json
+> git ls-tree -l HEAD -- /home/edenio/Workspaces/WS-STS/dspesquisa/front-web/package-lock.json
+> git show --textconv :front-web/package.json
+> git ls-files --stage -- /home/edenio/Workspaces/WS-STS/dspesquisa/front-web/package.json
+> git cat-file -s 599b74893ed6437f78f0da110923104568714036
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :front-web/package-lock.json
+> git ls-files --stage -- /home/edenio/Workspaces/WS-STS/dspesquisa/front-web/package-lock.json
+> git cat-file -s 64d793ec671333097b728657be16cd62f563a0cf
+> git show --textconv :front-web/package.json
+> git ls-files --stage -- /home/edenio/Workspaces/WS-STS/dspesquisa/front-web/package.json
+> git cat-file -s 599b74893ed6437f78f0da110923104568714036
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template

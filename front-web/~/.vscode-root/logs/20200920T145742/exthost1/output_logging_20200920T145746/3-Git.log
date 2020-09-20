@@ -1,0 +1,32 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/edenio/Workspaces/WS-STS/dspesquisa
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :front-web/package.json
+> git ls-files --stage -- /home/edenio/Workspaces/WS-STS/dspesquisa/front-web/package.json
+> git cat-file -s 599b74893ed6437f78f0da110923104568714036
+> git check-ignore -v -z --stdin
+> git show --textconv :front-web/src/Routes.tsx
+> git ls-files --stage -- /home/edenio/Workspaces/WS-STS/dspesquisa/front-web/src/Routes.tsx
+> git show --textconv :front-web/package.json
+> git ls-files --stage -- /home/edenio/Workspaces/WS-STS/dspesquisa/front-web/package.json
+> git cat-file -s 599b74893ed6437f78f0da110923104568714036
+> git show --textconv :front-web/src/Routes.tsx
+> git ls-files --stage -- /home/edenio/Workspaces/WS-STS/dspesquisa/front-web/src/Routes.tsx
+> git check-ignore -v -z --stdin
+> git show --textconv :front-web/node_modules/@types/react-router-dom/index.d.ts
+> git ls-files --stage -- /home/edenio/Workspaces/WS-STS/dspesquisa/front-web/node_modules/@types/react-router-dom/index.d.ts
+> git check-ignore -v -z --stdin
+> git show --textconv :front-web/src/Routes.tsx
+> git ls-files --stage -- /home/edenio/Workspaces/WS-STS/dspesquisa/front-web/src/Routes.tsx
+> git show --textconv :front-web/package.json
+> git ls-files --stage -- /home/edenio/Workspaces/WS-STS/dspesquisa/front-web/package.json
+> git cat-file -s 599b74893ed6437f78f0da110923104568714036
